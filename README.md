@@ -1,2 +1,2 @@
 # demo-repo
-Learining to user git/github
+Learining to use git/github
